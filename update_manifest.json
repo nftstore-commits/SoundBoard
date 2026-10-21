@@ -1,0 +1,8 @@
+{
+  "schema_version": 1,
+  "version": "1.7.4",
+  "download_url": "https://github.com/nftstore-commits/SoundBoard/releases/download/v1.7.4/SoundBoard-Setup-1.7.4.exe",
+  "sha256": "3e3e6fe7c3c98904b5b30a3df92255eb47354d1820e43a2f2186544f0fa362cc",
+  "release_notes": "SoundBoard v1.7.4 — UI Layout Patch\n\n1. Google Connect อยู่มุมขวาบน ข้างสถานะ Trial/License\n2. Master Volume และ TH/EN อยู่ฝั่งซ้าย ถัดจากป้าย Enabled/เปิดอยู่\n3. ลดความกว้าง slider เสียงรวมและระยะห่างของแถวส่วนหัว/โปรไฟล์/เครื่องมือ\n4. คงธีมเดิมและ app_version.py = 1.7.4\n5. เปลี่ยนเฉพาะ soundboard.py; ไม่เปลี่ยน License/OAuth/Server secrets\n",
+  "signature": "l19RysMZFX4QZYw89Sf3KUHQzLMB9Xd7O51x4oHy91vlBTA5YFvREW/Gbx+GnL3KqwPawZlMdEwq2P3F2iHKCQ=="
+}
