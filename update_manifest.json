@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "version": "1.7.4",
-  "download_url": "https://github.com/nftstore-commits/SoundBoard/releases/download/v1.7.4/SoundBoard-Setup-1.7.4.exe",
-  "sha256": "3e3e6fe7c3c98904b5b30a3df92255eb47354d1820e43a2f2186544f0fa362cc",
-  "release_notes": "SoundBoard v1.7.4 — UI Layout Patch\n\n1. Google Connect อยู่มุมขวาบน ข้างสถานะ Trial/License\n2. Master Volume และ TH/EN อยู่ฝั่งซ้าย ถัดจากป้าย Enabled/เปิดอยู่\n3. ลดความกว้าง slider เสียงรวมและระยะห่างของแถวส่วนหัว/โปรไฟล์/เครื่องมือ\n4. คงธีมเดิมและ app_version.py = 1.7.4\n5. เปลี่ยนเฉพาะ soundboard.py; ไม่เปลี่ยน License/OAuth/Server secrets\n",
-  "signature": "l19RysMZFX4QZYw89Sf3KUHQzLMB9Xd7O51x4oHy91vlBTA5YFvREW/Gbx+GnL3KqwPawZlMdEwq2P3F2iHKCQ=="
+  "version": "1.7.6",
+  "download_url": "https://github.com/nftstore-commits/SoundBoard/releases/download/v1.7.6/SoundBoard-Setup-1.7.6.exe",
+  "sha256": "0f4eb2b0495db8f0d82fe565bc05227fd40bb6821f43cbe89132a72579becc1d",
+  "release_notes": "SoundBoard v1.7.6 — Installer / Release Patch\n\n1. ติดตั้งทับเวอร์ชันเก่าแล้วล้างไฟล์โปรแกรมเก่าที่ค้างอยู่ทั้งหมด แก้ปัญหาโปรแกรมรวนหลังอัปเกรด\n   (ไฟล์ตั้งค่าและไฟล์เสียงของคุณไม่ถูกลบ)\n2. ติดตั้งแบบรายผู้ใช้เป็นค่าเริ่มต้น (เลือกติดตั้งทุกผู้ใช้ได้)\n3. ถ้าโปรแกรมเปิดค้างใน tray ตัวติดตั้ง/ถอนการติดตั้งจะขอให้ปิดก่อน แทนการล้มเหลว\n4. ถอนการติดตั้งแล้วล้างข้อมูลแอป โดยไม่ลบไฟล์เสียงต้นฉบับ\n5. ปรับหน้าต่าง Trial และหน้าจอแจ้งเซสชันหมดอายุใหม่\n",
+  "signature": "hK/1LzAERRQ5+vHDKb3dnrxyIa9xhno/rxvvMzJejuQHkwYu4MHkhiODU8Ay2kHuKeTzya5m9gz7YoOQy1yLCg=="
 }
