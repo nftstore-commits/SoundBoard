@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "version": "1.7.6",
-  "download_url": "https://github.com/nftstore-commits/SoundBoard/releases/download/v1.7.6/SoundBoard-Setup-1.7.6.exe",
-  "sha256": "0f4eb2b0495db8f0d82fe565bc05227fd40bb6821f43cbe89132a72579becc1d",
-  "release_notes": "SoundBoard v1.7.6 — Installer / Release Patch\n\n1. ติดตั้งทับเวอร์ชันเก่าแล้วล้างไฟล์โปรแกรมเก่าที่ค้างอยู่ทั้งหมด แก้ปัญหาโปรแกรมรวนหลังอัปเกรด\n   (ไฟล์ตั้งค่าและไฟล์เสียงของคุณไม่ถูกลบ)\n2. ติดตั้งแบบรายผู้ใช้เป็นค่าเริ่มต้น (เลือกติดตั้งทุกผู้ใช้ได้)\n3. ถ้าโปรแกรมเปิดค้างใน tray ตัวติดตั้ง/ถอนการติดตั้งจะขอให้ปิดก่อน แทนการล้มเหลว\n4. ถอนการติดตั้งแล้วล้างข้อมูลแอป โดยไม่ลบไฟล์เสียงต้นฉบับ\n5. ปรับหน้าต่าง Trial และหน้าจอแจ้งเซสชันหมดอายุใหม่\n",
-  "signature": "hK/1LzAERRQ5+vHDKb3dnrxyIa9xhno/rxvvMzJejuQHkwYu4MHkhiODU8Ay2kHuKeTzya5m9gz7YoOQy1yLCg=="
+  "version": "1.7.7",
+  "download_url": "https://github.com/nftstore-commits/SoundBoard/releases/download/v1.7.7/SoundBoard-Setup-1.7.7.exe",
+  "sha256": "c699c05a8bfece067cebfd70ee89650077ee5ec21aba97e868c12d1075c1fc43",
+  "release_notes": "SoundBoard v1.7.7 — WebView2 Runtime Fix\n\n1. แก้ปัญหาเปิดโปรแกรมแล้วไม่แสดงหน้าต่างบนเครื่องที่ไม่มี Microsoft Edge WebView2 Runtime\n2. ตัวติดตั้งจะติดตั้ง WebView2 Runtime ให้อัตโนมัติหากเครื่องยังไม่มี\n3. หากยังไม่มี WebView2 โปรแกรมจะแจ้งพร้อมลิงก์ดาวน์โหลดจาก Microsoft แทนการค้าง\n",
+  "signature": "LvILxMpW5w6agN+qrdbpzr0etQN2SCiiBNbTylAfET1FUxJqeZtE9GaPOLRAn4kPys+jBRpDv7a5efRNY5eKCw=="
 }
