@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "version": "1.7.10",
-  "download_url": "https://github.com/nftstore-commits/SoundBoard/releases/download/v1.7.10/SoundBoard-Setup-1.7.10.exe",
-  "sha256": "e84bf50e020d46d7ac62a1ff252b688bcc494fdce907b3805a88faac3ac9bda9",
-  "release_notes": "SoundBoard v1.7.10 — ปรับปรุงหน้า Timeline และตรวจอัปเดตอัตโนมัติ\n\n1. แอปตรวจหาอัปเดตเองตอนเปิดและทุก 6 ชั่วโมง ไม่ต้องไปกดตรวจสอบในหน้าตั้งค่า\n2. Timeline: เพิ่มปุ่ม \"คืนค่า\" ข้างปุ่มบันทึก กดแล้วกลับไปเป็นค่าตอนเปิดหน้านี้ (ตำแหน่ง Track, เสียง, การตัด และเฟด) และยังกดย้อนกลับได้\n3. Timeline: ย้ายปุ่มเล่น / แบ่งคลิป / ดูดติด / ย้อนกลับ / ทำซ้ำ มาอยู่แถวเดียวกับ \"+ เพิ่ม Track\" วางเมาส์บนปุ่มจะมีคำอธิบาย และย้ายข้อความปุ่มลัดไปไว้ในกล่องวิธีใช้ด้านล่าง\n4. Timeline: คลิปที่เพิ่มใหม่ต่อท้ายคลิปสุดท้ายในทุก Track การซูมไม่ขยายเกินหลังเพิ่มเสียง และตัวเลขความยาวอัปเดตทันทีตอนลากขอบคลิป\n",
-  "signature": "xl2XEfxOL8+NCLMajv4XLebsGlyJss9ViWLbbsvsVYaXxx4TgAfmxcMCvI0oE4wmymIPZ7BFcXqKBivfAtp5Bw=="
+  "version": "1.7.11",
+  "download_url": "https://github.com/nftstore-commits/SoundBoard/releases/download/v1.7.11/SoundBoard-Setup-1.7.11.exe",
+  "sha256": "bb364c183bbfb4460b42bd06691bb9aec5aebd46501dee99e24a77ee3502207b",
+  "release_notes": "SoundBoard v1.7.11 — ปรับแต่งสีปุ่มรายปุ่มในบอร์ดแบบกะทัดรัด และแก้ปัญหากำหนดปุ่มลัด\n\n1. กำหนดสีและสไตล์ของแต่ละปุ่มได้อีกครั้ง รวมถึงในบอร์ดแบบกะทัดรัด\n2. แก้สไตล์ปุ่มที่ไม่มีสีให้แสดงผลปกติ (ไม่ว่างเปล่า) และปรับความเปรียบต่างของข้อความบนสไตล์ metal / split / stripe\n3. บอร์ดแบบกะทัดรัด: ปุ่มเมาส์และปุ่มเสริมขนาดตามบอร์ด ชื่อปุ่มไม่ถูกตัดที่ขนาด 50-200% และปุ่ม × ลบปุ่มเสริมแสดงเฉพาะตอนวางเมาส์\n4. แก้ปัญหากำหนดปุ่มลัดค้างหลังบันทึกปุ่ม และรูปโปรไฟล์บัญชีพอดีกับกรอบ\n",
+  "signature": "Id6ioF8BZiog6L6O3i2wu0sllM7NGYyW5oDyE9KIm0XH1ngum+oeNG//b+SxNmkQk4OxAjVOVTHhu3jhQ+DyBQ=="
 }
