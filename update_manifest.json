@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "version": "1.7.11",
-  "download_url": "https://github.com/nftstore-commits/SoundBoard/releases/download/v1.7.11/SoundBoard-Setup-1.7.11.exe",
-  "sha256": "bb364c183bbfb4460b42bd06691bb9aec5aebd46501dee99e24a77ee3502207b",
-  "release_notes": "SoundBoard v1.7.11 — ปรับแต่งสีปุ่มรายปุ่มในบอร์ดแบบกะทัดรัด และแก้ปัญหากำหนดปุ่มลัด\n\n1. กำหนดสีและสไตล์ของแต่ละปุ่มได้อีกครั้ง รวมถึงในบอร์ดแบบกะทัดรัด\n2. แก้สไตล์ปุ่มที่ไม่มีสีให้แสดงผลปกติ (ไม่ว่างเปล่า) และปรับความเปรียบต่างของข้อความบนสไตล์ metal / split / stripe\n3. บอร์ดแบบกะทัดรัด: ปุ่มเมาส์และปุ่มเสริมขนาดตามบอร์ด ชื่อปุ่มไม่ถูกตัดที่ขนาด 50-200% และปุ่ม × ลบปุ่มเสริมแสดงเฉพาะตอนวางเมาส์\n4. แก้ปัญหากำหนดปุ่มลัดค้างหลังบันทึกปุ่ม และรูปโปรไฟล์บัญชีพอดีกับกรอบ\n",
-  "signature": "Id6ioF8BZiog6L6O3i2wu0sllM7NGYyW5oDyE9KIm0XH1ngum+oeNG//b+SxNmkQk4OxAjVOVTHhu3jhQ+DyBQ=="
+  "version": "1.7.12",
+  "download_url": "https://github.com/nftstore-commits/SoundBoard/releases/download/v1.7.12/SoundBoard-Setup-1.7.12.exe",
+  "sha256": "06a8c165c315c24c1ceda81f65c340e42b277bdf1e89ed512d5edfe3c2f633b4",
+  "release_notes": "SoundBoard v1.7.12 — เริ่มทดลองใช้ 7 วันจากในแอป และสลับบัญชีได้\n\n1. ทดลองใช้ฟรี 7 วันจะเริ่มเมื่อกดปุ่ม \"เริ่มทดลองใช้ 7 วัน\" ในแอปเท่านั้น ผูกกับเครื่องนี้ ไม่ผูกกับอีเมล\n2. เพิ่มตัวสลับบัญชี Google ในเมนูสมาชิก\n3. ปรับเลย์เอาต์ให้พอดีที่ขนาดหน้าต่างเล็กสุด 820×620\n4. อัปเดตเว็บไซต์เป็นเวอร์ชัน 1.7.12\n",
+  "signature": "rMyhY0R+SWKfHV+l6/Ckpt9q8WzGJQQZamOesdnX2n1rtEd9bko/1OSuVHxMdbzRCmr/D72RAnkgT2QPSgUwDQ=="
 }
