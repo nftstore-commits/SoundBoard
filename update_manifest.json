@@ -1,8 +1,8 @@
 {
   "schema_version": 1,
-  "version": "1.7.12",
-  "download_url": "https://github.com/nftstore-commits/SoundBoard/releases/download/v1.7.12/SoundBoard-Setup-1.7.12.exe",
-  "sha256": "06a8c165c315c24c1ceda81f65c340e42b277bdf1e89ed512d5edfe3c2f633b4",
-  "release_notes": "SoundBoard v1.7.12 — เริ่มทดลองใช้ 7 วันจากในแอป และสลับบัญชีได้\n\n1. ทดลองใช้ฟรี 7 วันจะเริ่มเมื่อกดปุ่ม \"เริ่มทดลองใช้ 7 วัน\" ในแอปเท่านั้น ผูกกับเครื่องนี้ ไม่ผูกกับอีเมล\n2. เพิ่มตัวสลับบัญชี Google ในเมนูสมาชิก\n3. ปรับเลย์เอาต์ให้พอดีที่ขนาดหน้าต่างเล็กสุด 820×620\n4. อัปเดตเว็บไซต์เป็นเวอร์ชัน 1.7.12\n",
-  "signature": "rMyhY0R+SWKfHV+l6/Ckpt9q8WzGJQQZamOesdnX2n1rtEd9bko/1OSuVHxMdbzRCmr/D72RAnkgT2QPSgUwDQ=="
+  "version": "1.7.14",
+  "download_url": "https://github.com/nftstore-commits/SoundBoard/releases/download/v1.7.14/SoundBoard-Setup-1.7.14.exe",
+  "sha256": "c6e397ebd1c05b0d66a96692e42cad2109e400dc39ca86c92f0d12dca49c66d1",
+  "release_notes": "SoundBoard v1.7.14 — กด X แล้วย่อลงถาดระบบ · อัปเดตแจ้งรายละเอียดก่อนติดตั้ง · วิธีใช้แบบภาพ\n1. กด X แล้วโปรแกรมย่อลงถาดระบบ แทนที่จะปิดทั้งโปรแกรม\n2. อัปเดตโปรแกรมแจ้งรายละเอียดเวอร์ชันและแพตช์ก่อนเสมอ ต้องกด “ดาวน์โหลด” ในหน้าต่างนั้นจึงจะอัปเดต\n3. หน้าวิธีใช้ในโปรแกรมใช้ภาพหน้าจอปัจจุบันเป็นหลัก และตรวจคำอธิบายให้ตรงกับโปรแกรมจริง\n4. ล็อกอิน Google และส่งรายงานปัญหาใช้งานได้ตามปกติ ข้อความผิดพลาดอ่านเข้าใจแทนรหัสดิบ\n\n===EN===\nX hides to the tray · update details before installing · illustrated help\n1. Clicking X now hides the app in the system tray instead of closing it.\n2. Updates always show the version and patch details first. You must press “Download” in that window to update.\n3. The in-app help now uses screenshots of the current program, and every explanation was checked against the real app.\n4. Google sign-in and problem reports work normally, and error messages are readable instead of raw codes.\n",
+  "signature": "1sGhGPeQKqfH86aaUYVefgZ2D3MRW3XumNOfNPI2ZCZZDyJZiSIRcc/kd1baVdzIyeNunmqKSnqGumCS50eyCw=="
 }
